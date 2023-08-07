@@ -1,0 +1,10 @@
+.header{
+    background-image: linear-gradient(to right, rgb(0, 0, 0, 0.8), rgb(0, 0, 0, 0.7)), url('../public/img/header.png');
+    padding: 5rem 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.contenedor{
+    text-align: center;
+}
